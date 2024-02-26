@@ -1,5 +1,5 @@
-# Baut einen kleinen Blog
+# Build a Small Blog
 
-Auf dem Bild seht ihr eine Beispielseite, versucht eine ähnliche Seite - zu einem Thema eurer Wahl - nachzubauen. Die Verlinkung zur Unterseite ist ein Bonus. Baut diese nur, wenn ihr früher fertig seid.
+In the image, you see an example page, try to build a similar page - on a topic of your choice. Linking to the subpage is a bonus. Only build this if you finish early.
 
-![Beispielseite](siteAnimation.gif)
+![Example page](siteAnimation.gif)
